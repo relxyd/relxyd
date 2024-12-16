@@ -10,15 +10,15 @@
 
 ###
 
-<h1 align="center">📎apart</h1>
+<h1 align="center">🪁 relayd</h1>
 
 ###
 
 <br clear="both">
 
 <div align="right">
-  <img src="https://retard-two.vercel.app/api?username=apxart&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&bg_color=00000000" height="150" alt="stats graph" /> <br>
-  <img src="https://retard-two.vercel.app/api/top-langs?username=apxart&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&bg_color=00000000" height="150" alt="languages graph"  />
+  <img src="https://retard-two.vercel.app/api?username=relxyd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&bg_color=00000000" height="150" alt="stats graph" /> <br>
+  <img src="https://retard-two.vercel.app/api/top-langs?username=relxyd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&bg_color=00000000" height="150" alt="languages graph"  />
 </div>
 
 ###
